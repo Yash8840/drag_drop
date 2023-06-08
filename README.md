@@ -9,7 +9,7 @@ https://dragdropbyyash.netlify.app/
 - Copy the link to the repo by selecting the "code" option
 - Open Git Bash.
 - Change the current working directory to the location where you want the cloned directory.
-- Type ### `git clone`, and then paste the URL you copied earlier.
+- Type `git clone`, and then paste the URL you copied earlier.
 - Press Enter to create your local clone.
 
 ## DEMO Screenshot
