@@ -12,5 +12,10 @@ https://dragdropbyyash.netlify.app/
 - Type `git clone`, and then paste the URL you copied earlier.
 - Press Enter to create your local clone.
 
+## App info
+To add the success effect on successfully dropping a list item, i added a confetti effect using an external js library.
+
 ## DEMO Screenshot
 ![Screenshot (194)](https://github.com/Yash8840/drag_drop/assets/97682697/de735674-8ca0-4aaa-bd49-40fee32dab26)
+
+
