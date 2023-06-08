@@ -11,3 +11,6 @@ https://dragdropbyyash.netlify.app/
 - Change the current working directory to the location where you want the cloned directory.
 - Type ### `git clone`, and then paste the URL you copied earlier.
 - Press Enter to create your local clone.
+
+## DEMO Screenshot
+![Screenshot (194)](https://github.com/Yash8840/drag_drop/assets/97682697/de735674-8ca0-4aaa-bd49-40fee32dab26)
