@@ -19,7 +19,7 @@ for (const list of lists) {
 
     rightList.addEventListener("drop", function (e) {
       if(!selected.classList.contains('image')){
-        selected.style.backgroundColor = '#e91e63';
+        selected.style.backgroundColor = '#e91e64';
       }
       rightList.appendChild(selected);
       selected.scrollIntoView({ behavior: 'smooth' });
